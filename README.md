@@ -3,6 +3,10 @@
 A new Flutter project.
 
 ## Getting Started
+Update the application name and application id in android/app/build.gradle
+paste the .json file in android/app
+
+
 
 This project is a starting point for a Flutter application.
 
